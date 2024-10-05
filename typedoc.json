@@ -3,7 +3,7 @@
   "out": "./docs",
   "disableSources": true,
   "plugin": ["./dist/index.js", "typedoc-plugin-replace-text"],
-  "versionHeaderFormat": "{{name}} v{{version}}",
+  "versionHeaderFormat": "v{{version}}",
   "replaceText": {
     "replacements": [
       {
